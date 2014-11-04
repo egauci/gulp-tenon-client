@@ -1,6 +1,6 @@
 {
   "name": "gulp-tenon-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp Plugin for Tenon Accessibility Testing API",
   "main": "gulp-tenon.js",
   "dependencies": {

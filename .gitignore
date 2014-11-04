@@ -1,5 +1,2 @@
 node_modules/*
-tests2
 .tenonrc
-foo.html
-gulpfile.js
