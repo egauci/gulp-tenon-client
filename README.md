@@ -5,7 +5,7 @@ This is a gulp plugin for [TENON](http://tenon.io/) - a web accessiblity testing
 
 Tenon docs: http://tenon.io/documentation/
 
-This gulp Tenon plugin is [open and free](https://github.com/egauci/gulp-tenon-client/blob/master/LICENSE)
+This gulp Tenon plugin is [open and free](https://github.com/egauci/gulp-tenon-client/blob/master/LICENSE).
 However, access to the Tenon API must be granted by [Tenon](http://tenon.io/).
 You will need to obtain an API key to use it.
 
