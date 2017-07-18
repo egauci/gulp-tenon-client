@@ -10,7 +10,7 @@ var clone = require('clone'),
 
 var PLUGIN_NAME = 'gulp-tenon';
 
-console.log(PLUGIN_NAME);
+// console.log(PLUGIN_NAME);
 
 module.exports = function(opts) {
   var options = merge({config: '.tenonrc'}, opts),
